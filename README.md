@@ -27,7 +27,8 @@ To run this analysis, make sure you install the necessary dependencies:
 
 1. Install Python: https://www.python.org/downloads/
 2. Install and run Jupyter Lab:  https://jupyter.org/install
-3. Install the necessary libraries using pip, the package installer for Python:
+3. Install Anaconda: https://docs.anaconda.com/free/anaconda/install/
+4. Install the necessary libraries using pip, the package installer for Python:
 ```
 pip install pandas numpy hvplot SQLAlchemy
 ```
@@ -45,7 +46,7 @@ conda install -c conda-forge voila
 After installation for voila is complete, the following should be displayed:
 ![voila_install](voila_install.png)
 
-4. Clone the repository: `git clone "https://github.com/mikenguyenx/7_passive_investing_sql"` using git or download the ZIP file and extract it to a local directory.
+5. Clone the repository: `git clone "https://github.com/mikenguyenx/7_passive_investing_sql"` using git or download the ZIP file and extract it to a local directory.
 
 
 ## Usage
@@ -64,7 +65,11 @@ To run the script for the Fund Portfolio Risk Return Analysis:
 
 ## Web Application Deployment (Voilà) 
 
+![passive_investing](passive_investing.webm)
 
+https://drive.google.com/file/d/1AWTMWF3zMP1TBHjJ9iHZRBe5avC1P19X/view
+
+https://watch.screencastify.com/v/lBThkEqtETZkCgZhEhSP
 
 
 ## Contributors

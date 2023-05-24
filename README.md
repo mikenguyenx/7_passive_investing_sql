@@ -65,12 +65,7 @@ To run the script for the Fund Portfolio Risk Return Analysis:
 
 ## Web Application Deployment (Voilà) 
 
-![passive_investing](passive_investing.webm)
-
-https://drive.google.com/file/d/1AWTMWF3zMP1TBHjJ9iHZRBe5avC1P19X/view
-
-https://watch.screencastify.com/v/lBThkEqtETZkCgZhEhSP
-
+![voila](voila.mp4)
 
 ## Contributors
 
